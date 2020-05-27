@@ -57,7 +57,7 @@ module.exports = {
       port: Env.get('DB_PORT', '3306'),
       user: Env.get('DB_USER', 'wwwwild_wildadmin'),
       password: Env.get('DB_PASSWORD', 't71469469'),
-	  database: Env.get('DB_DATABASE', 'adonis')
+	  database: Env.get('DB_DATABASE', 'wwwwild_fumeiro')
 	  
     },
     debug: Env.get('DB_DEBUG', false)
